@@ -19,7 +19,6 @@ A aula foi desenvolvida com o objetivo de tornar os conceitos acessíveis para i
 - **slides/**: Apresentações em formato de slides usadas durante a aula.
 - **exemplos/**: Código fonte dos exemplos mostrados na aula.
 - **exercícios/**: Atividades práticas para reforçar o aprendizado.
-- **notas/**: Anotações e resumos dos tópicos abordados.
 
 ## Como Usar
 
@@ -33,7 +32,7 @@ A aula foi desenvolvida com o objetivo de tornar os conceitos acessíveis para i
    cd Fundamentos-Do-Javascript-Adaptelas-2024-Aula-6
    ```
 
-3. Explore os arquivos e pastas para acessar o conteúdo da aula.
+3. Explore os arquivos e pastas para acessar o conteúdo da aula, e não se esqueça de descomentar os códigos separadamente.
 
 ## Contribuição
 
@@ -42,3 +41,6 @@ Contribuições são bem-vindas! Se você deseja melhorar o conteúdo, corrigir 
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+![Adaptelas](https://media.licdn.com/dms/image/D4D22AQGxL0ijHYUlQA/feedshare-shrink_800/0/1688062478415?e=2147483647&v=beta&t=ta35mjdCg7kqg867E_oTQg3xxGk5yumQs1tHJfiGHLg)
+
