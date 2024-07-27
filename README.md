@@ -42,5 +42,5 @@ Contribuições são bem-vindas! Se você deseja melhorar o conteúdo, corrigir 
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
-![Adaptelas](https://www.canva.com/design/DAFzt30rOn4/pvm3KCmQDxoG9HyN4akiPg/view?utm_content=DAFzt30rOn4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![Adaptelas](https://github.com/Alberttavares/Fundamentos-Do-Javascript-Adaptelas-2024-Aula-6/blob/master/Adaptelas%202024%20-Fundamentos%20do%20Js.png)
 
