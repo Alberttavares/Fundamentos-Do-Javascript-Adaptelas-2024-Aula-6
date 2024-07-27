@@ -1,4 +1,7 @@
-# Fundamentos Do JavaScript - Adaptelas 2024 - Aula 6
+ # Fundamentos Do JavaScript - Adaptelas 2024 - Aula 6
+   
+<img src="https://github.com/Alberttavares/Fundamentos-Do-Javascript-Adaptelas-2024-Aula-6/blob/master/Adaptelas%202024%20-Fundamentos%20do%20Js%20(1).png" alt="Adaptelas" width="800"/>
+
 
 Este repositório contém o material da aula 6 do curso **Fundamentos do JavaScript** da Adaptelas 2024.
 
@@ -42,7 +45,6 @@ Contribuições são bem-vindas! Se você deseja melhorar o conteúdo, corrigir 
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
-![Adaptelas](https://github.com/Alberttavares/Fundamentos-Do-Javascript-Adaptelas-2024-Aula-6/blob/master/Adaptelas%202024%20-Fundamentos%20do%20Js%20(1).png)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=color=0:9900FF,50:9900CC,100:CC00CC&section=footer&reversal=true&fontAlign=50&fontAlignY=71&descAlign=47&descAlignY=53"/>
