@@ -1,0 +1,1 @@
+console.log("ARQUIVO DO JAVASCRIPT")
