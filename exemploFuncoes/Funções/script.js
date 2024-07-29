@@ -1,17 +1,17 @@
 
 // Função anônima
-/* const somar = function (a, b) {
+const somar = function (a, b) {
 	return a + b;
 };
-console.log(somar(10, 25)); */
+console.log(somar(10, 25));
 
 
 // Função declarativa
-/* function saudacao(nome) {
+function saudacao(nome) {
 	return `Olá ${nome}`;
 }
-console.log(saudacao("Albert")); */
+console.log(saudacao("Albert"));
 
 //Arrow function
-/* const multiplicar = (a, b) => a * b;
-console.log(multiplicar(2, 3)); // 6 */
+const multiplicar = (a, b) => a * b;
+console.log(multiplicar(2, 3)); // 6

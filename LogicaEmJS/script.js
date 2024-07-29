@@ -3,7 +3,7 @@
 // abaixo disso, o aluno estará de prova final.
 
 
-/* function verificarAprovacao(media) {
+function verificarAprovacao(media) {
 	if (media >= 7) {
 		return "O aluno foi aprovado.";
 	} else {
@@ -16,7 +16,7 @@ let mediaAluno2 = 6.3;
 
 
 console.log(verificarAprovacao(mediaAluno1));
-console.log(verificarAprovacao(mediaAluno2)); */
+console.log(verificarAprovacao(mediaAluno2));
 
 
 
@@ -26,7 +26,7 @@ console.log(verificarAprovacao(mediaAluno2)); */
 // abaixo disso, o aluno estará de prova final.
 
 
-/* function verificarAprovacao(nota1, nota2, nota3) {
+function verificarAprovacao(nota1, nota2, nota3) {
 	let media = (nota1 + nota2 + nota3) / 3;
 
 	if (media >= 6) {
@@ -42,7 +42,7 @@ let notaProva2 = 7.5;
 let notaProva3 = 2;
 
 let resultadoAluno = verificarAprovacao(notaProva1, notaProva2, notaProva3);
-console.log(resultadoAluno); */
+console.log(resultadoAluno);
 
 
 
